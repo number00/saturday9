@@ -1,5 +1,7 @@
 # saturday9
 Agile Study Group - Saturday9
+- sat9.kr
+- sat9.co.kr
 
 ## tips
 
